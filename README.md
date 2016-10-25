@@ -7,3 +7,4 @@ Allen Brain Institute Observatory Dataset
 2) The jupyter notebook we looked at that has examples for how to interact with the AllenSDK python package for downloading the data.
 
 To launch the notebook:
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/msarvestani/cni-jc)
